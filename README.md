@@ -3,7 +3,6 @@
 
 A sophisticated AI-powered summary directory built with React, Vite, Google Gemini AI, and Supabase.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1EvPOKGgCNjmI81vL0oylxfNSyP_gWkJE
 
 ## 🚀 Quick Start
 
